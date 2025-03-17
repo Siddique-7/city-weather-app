@@ -2,6 +2,10 @@
 
 A simple weather application that fetches and displays real-time weather data for any city.
 
+🌎 Live Demo  
+Check out the live version of the app here:  
+🔗 [City Weather Inform] (https://cityweatherinform.netlify.app/)
+
 ## 🚀 Features
 - Get real-time weather updates.
 - Displays temperature, humidity, and wind speed.
@@ -22,9 +26,6 @@ A simple weather application that fetches and displays real-time weather data fo
    cd city-weather-app
    ```
 3. Open `index.html` in a browser.
-
-## 🌎 Live Demo
-[City Weather Inform](https://cityweatherinform.netlify.app/)
 
 ## 🏗 Future Improvements
 - Add forecast for upcoming days.
